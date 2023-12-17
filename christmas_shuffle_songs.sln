@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "christmas_shuffle_songs", "christmas_shuffle_songs\christmas_shuffle_songs.pyproj", "{3DBDC4E8-9393-4FDD-AC73-D27AEC162491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DBDC4E8-9393-4FDD-AC73-D27AEC162491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBDC4E8-9393-4FDD-AC73-D27AEC162491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FBA7732-3976-4514-92B4-CDAF5C44BC37}
+	EndGlobalSection
+EndGlobal
